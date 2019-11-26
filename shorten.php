@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>LeasePlan AWS EC2/RDS PHP URL shortener</h2>
+  <h2>LeasePlan AWS Docker PHP URL shortener</h2>
   <img src="lp_logo2.png" alt="LeasePlan Logo" /> <img src="aws_logo2.png" alt="AWS Logo" /></p>
 
 <style type="text/css">
@@ -70,7 +70,7 @@ mysqli_close($con);
 </div>
 
 <div class="footer">
-<p>&copy; Developed by <a href="https://www.leaseplan.com">LeasePlan</a> @ AWS Immersion Day [Dublin 2017]</p>
+<p>&copy; Developed by <a href="https://www.leaseplan.com">LeasePlan</a> @ AWS Immersion Day [Atlanta 2019]</p>
 </div>
 </body>
 </html>
