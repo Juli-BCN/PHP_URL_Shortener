@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>LeasePlan AWS EC2/RDS PHP URL shortener</h2>
+  <h2>LeasePlan AWS Docker PHP URL shortener</h2>
   <img src="lp_logo2.png" alt="LeasePlan Logo" /> <img src="aws_logo2.png" alt="AWS Logo" /></p>
 
 <style type="text/css">
