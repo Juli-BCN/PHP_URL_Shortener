@@ -7,13 +7,13 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <script src="css/jquery.min.js"></script>
   <script src="css/bootstrap.min.js"></script>
-  <title>LeasePlan AWS PHP URL shortener</title>
+  <title>PHP URL shortener</title>
 </head>
 <body>
 
 <div class="container">
-  <h2>LeasePlan AWS Docker PHP URL shortener</h2>
-  <img src="lp_logo2.png" alt="LeasePlan Logo" /> <img src="aws_logo2.png" alt="AWS Logo" /></p>
+  <h2>PHP URL shortener</h2>
+  <img src="lp_logo2.png" alt="Logo" /> <img src="aws_logo2.png" alt="AWS Logo" /></p>
 
 <style type="text/css">
 <!--
