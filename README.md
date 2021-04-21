@@ -19,6 +19,7 @@ PHP Code to Shorten URLs and create links and redirection
 
 > shortened: varchar(255)
 
+
 ## To create the user and database from mySQL Command Line, use the following commands:
 > CREATE USER 'lpurlsuser'@'localhost';
 
@@ -30,3 +31,12 @@ PHP Code to Shorten URLs and create links and redirection
 
 > CREATE DATABASE LPURLS;
 
+
+## To create the table and fields, use the following commands:
+> USE LPURLS;
+> CREATE TABLE testurls(
+   id INT AUTO_INCREMENT,
+   url VARCHAR(512),
+   shortened VARCHAR(255),
+   PRIMARY KEY ( id )
+);
