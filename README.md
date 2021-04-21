@@ -42,7 +42,7 @@ PHP Code to Shorten URLs and create links and redirection
    PRIMARY KEY ( id )
 );
 
-## Edit file shorten.php and change values on lines 65 and 66 to match your public IP or DNS name
+## Edit shorten.php to change IP on lines 65 and 66 to match your public IP or DNS name
 > echo "Shortened URL is <a href=\"http://52.17.207.99/decoder.php?decode=". $shorturl ."\">http://test.com/". $shorturl ."</a>";
 
 > //echo "Shortened URL is <a href=\"http://52.17.207.99/url/". $shorturl ."\">http://test.com/". $shorturl ."</a
