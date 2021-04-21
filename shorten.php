@@ -5,6 +5,8 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="apple-touch-icon" href="favicon.ico">
+  <link rel="icon" href="favicon.ico">
   <script src="css/jquery.min.js"></script>
   <script src="css/bootstrap.min.js"></script>
   <title>PHP URL shortener</title>
