@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <script src="css/jquery.min.js"></script>
   <script src="css/bootstrap.min.js"></script>
-  <title>LeasePlan AWS PHP URL shortener</title>
+  <title>PHP URL shortener</title>
 </head>
 <body>
 
