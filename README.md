@@ -19,14 +19,14 @@ PHP Code to Shorten URLs and create links and redirection
 
 > shortened: varchar(255)
 
-## To create the user and database from mySQL Command Line, use the following
-CREATE USER 'lpurlsuser'@'localhost';
+## To create the user and database from mySQL Command Line, use the following commands:
+> CREATE USER 'lpurlsuser'@'localhost';
 
-ALTER USER 'lpurlsuser'@'localhost' IDENTIFIED BY 'lpurlspasswd';
+> ALTER USER 'lpurlsuser'@'localhost' IDENTIFIED BY 'lpurlspasswd';
 
-GRANT ALL PRIVILEGES ON *.* TO 'lpurlsuser'@'localhost';
+> GRANT ALL PRIVILEGES ON *.* TO 'lpurlsuser'@'localhost';
 
-FLUSH PRIVILEGES;
+> FLUSH PRIVILEGES;
 
-CREATE DATABASE LPURLS;
+> CREATE DATABASE LPURLS;
 
