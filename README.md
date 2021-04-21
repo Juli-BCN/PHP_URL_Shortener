@@ -34,6 +34,7 @@ PHP Code to Shorten URLs and create links and redirection
 
 ## To create the table and fields, use the following commands:
 > USE LPURLS;
+
 > CREATE TABLE testurls(
    id INT AUTO_INCREMENT,
    url VARCHAR(512),
